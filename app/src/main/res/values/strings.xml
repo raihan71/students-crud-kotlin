@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Students</string>
+    <string name="insert_student">INSERT STUDENT</string>
+    <string name="insert">INSERT</string>
+    <string name="name">Raihan</string>
+    <string name="nim">1301143434</string>
+    <string name="fakultas">Fakultas Informatika</string>
+</resources>
