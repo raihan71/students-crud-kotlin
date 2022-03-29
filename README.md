@@ -1,6 +1,6 @@
 <p>
   <img src="/app/src/main/ic_launcher-playstore.png" alt="Students logo" width="100" />
-  <a href="https://appsenjoy.com/3i7ew" target="_blank" title="Scan to download"><img align="right" src="https://res.cloudinary.com/kitakursus/image/upload/v1648524981/chart.png" /></a>
+  <a href="https://appsenjoy.com/3i7ew" target="_blank" title="Scan to download"><img align="right" src="https://res.cloudinary.com/kitakursus/image/upload/v1648525659/qrcode_appsenjoy.com.png" width="250" /></a>
 </p>
 
 # Students App
