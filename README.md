@@ -9,7 +9,6 @@
 [![lint](https://github.com/blocoio/android-template/workflows/lint/badge.svg?branch=master)](https://github.com/blocoio/android-template/actions?query=workflow%3Alint+branch%3Amaster)
 
 <p align="left">
-  <img src="https://res.cloudinary.com/kitakursus/image/upload/v1648524317/Screenshot_1648524042.png" alt="screenshoot" width="200" />
   <img src="https://res.cloudinary.com/kitakursus/image/upload/v1648524317/Screenshot_1648524048.png" alt="screenshoot" width="200" />
   <img src="https://res.cloudinary.com/kitakursus/image/upload/v1648524317/Screenshot_1648524061.png" alt="screenshoot" width="200" />
 </p>
